@@ -1,0 +1,14 @@
+Card [CardNumber=THREE, Flower=SPADE]
+Card [CardNumber=NINE, Flower=SPADE]
+Card [CardNumber=TEN, Flower=SPADE]
+Card [CardNumber=ACE, Flower=CLUB]
+Card [CardNumber=ACE, Flower=HEART]
+游戏时间：2018-8-7 16:43:28获得了750,恭喜
+*************
+Card [CardNumber=DEUCE, Flower=CLUB]
+Card [CardNumber=THREE, Flower=CLUB]
+Card [CardNumber=FOUR, Flower=DIANOND]
+Card [CardNumber=SEVEN, Flower=DIANOND]
+Card [CardNumber=SEVEN, Flower=CLUB]
+游戏时间：2018-8-7 17:20:08获得了450,恭喜
+*************

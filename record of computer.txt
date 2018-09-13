@@ -1,0 +1,14 @@
+Card [CardNumber=DEUCE, Flower=SPADE]
+Card [CardNumber=FIVE, Flower=CLUB]
+Card [CardNumber=FIVE, Flower=HEART]
+Card [CardNumber=SEVEN, Flower=CLUB]
+Card [CardNumber=NINE, Flower=CLUB]
+游戏时间：2018-8-7 16:43:28金额：750
+**************
+Card [CardNumber=THREE, Flower=DIANOND]
+Card [CardNumber=SIX, Flower=SPADE]
+Card [CardNumber=NINE, Flower=CLUB]
+Card [CardNumber=KING, Flower=SPADE]
+Card [CardNumber=ACE, Flower=HEART]
+游戏时间：2018-8-7 17:20:08金额：450
+**************
